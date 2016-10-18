@@ -1,7 +1,9 @@
 VarSpeedServo.h
 ===============
 使用程式 : Arduino
+
 使用目的 : ARDUINO 的伺服馬達控制速度
+
 安裝使用 : 這個資料庫適用在arduino的資料庫裡面，下載下來之後登入到資料庫裏面使用。
 
 The VarSpeedServo.h Arduino library allows the use of up to 8 servos moving asynchronously (because it uses interrupts). In addition, you can set the speed of a move, optionally wait (block) until the servo move is complete, and create sequences of moves that run asynchronously.
